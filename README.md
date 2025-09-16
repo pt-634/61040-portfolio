@@ -9,7 +9,6 @@ Some fun facts about me:
 2. I play basketball.
 3. I'm gonna be the first student to graduate from MIT without doing the swim requirement.
 
-/*![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)*/
 ![picture of Vagabond album by Noveliss](https://f4.bcbits.com/img/a3227339003_10.jpg)
 
 # Table of Contents
